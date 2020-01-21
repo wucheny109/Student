@@ -32,6 +32,20 @@ public class Student {
         this.name = name;
     }
 
+    /**
+     * @return the studentID
+     */
+    public int getStudentID() {
+        return studentID;
+    }
+
+    /**
+     * @param studentID the studentID to set
+     */
+    public void setStudentID(int studentID) {
+        this.studentID = studentID;
+    }
+
 }
  
    
